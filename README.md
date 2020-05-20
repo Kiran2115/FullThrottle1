@@ -1,7 +1,7 @@
 # FullThrottle1
 DRF API used to serve the data
 
-* URL: ```http://kirantask.pythonanywhere.com/users/```
+* URL: ```http://kirantask.pythonanywhere.com```
 
 
 ##  Installation
