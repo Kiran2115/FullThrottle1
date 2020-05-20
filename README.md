@@ -1,6 +1,9 @@
 # FullThrottle1
 DRF API used to serve the data
 
+* URL: ```http://kirantask.pythonanywhere.com/users/```
+
+
 ##  Installation
 
 * Clone the Repository ```git clone https://github.com/Kiran2115/FullThrottle1.git ```
